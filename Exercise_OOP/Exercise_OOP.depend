@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1702278480 source:d:\oop\codeblocks\exercise_oop\src\car.cpp
+	"Car.h"
+	<iostream>
+
+1702278480 d:\oop\codeblocks\exercise_oop\include\car.h
+	"Controller.h"
+	"Engine.h"
+	"FuelTank.h"
+	"Light.h"
+	"Battery.h"
+	"HMI.h"
+	<iostream>
+
+1702277672 d:\oop\codeblocks\exercise_oop\include\engine.h
+	"Controller.h"
+	"FuelTank.h"
+
+1701942502 d:\oop\codeblocks\exercise_oop\include\controller.h
+	<iostream>
+
+1702278796 source:d:\oop\codeblocks\exercise_oop\src\battery.cpp
+	"Battery.h"
+	"Car.h"
+	<iostream>
+
+1702278785 d:\oop\codeblocks\exercise_oop\include\battery.h
+	<iostream>
+
+1702278519 source:d:\oop\codeblocks\exercise_oop\src\fueltank.cpp
+	"FuelTank.h"
+	<iostream>
+
+1701936792 d:\oop\codeblocks\exercise_oop\include\fueltank.h
+	<iostream>
+	<Controller.h>
+
+1702008373 source:d:\oop\codeblocks\exercise_oop\src\hmi.cpp
+	"HMI.h"
+	<iostream>
+
+1702008560 d:\oop\codeblocks\exercise_oop\include\hmi.h
+	<iostream>
+	"Controller.h"
+
+1702279150 source:d:\oop\codeblocks\exercise_oop\main.cpp
+	<iostream>
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	"FuelTank.h"
+	"Battery.h"
+	"HMI.h"
+	<unistd.h>
+	<thread>
+
+1701942502 source:d:\oop\codeblocks\exercise_oop\src\controller.cpp
+	"Controller.h"
+	"Engine.h"
+	"Car.h"
+	"Light.h"
+	<iostream>
+
+1702278562 source:d:\oop\codeblocks\exercise_oop\src\engine.cpp
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	<iostream>
+	<string>
+	"FuelTank.h"
+
+1702279137 source:d:\oop\codeblocks\exercise_oop\src\light.cpp
+	"Light.h"
+	<iostream>
+	<thread>
+	<unistd.h>
+
+1702003443 d:\oop\codeblocks\exercise_oop\include\light.h
+	"Controller.h"
+	"Battery.h"
+	<thread>
+	<unistd.h>
+
+1702453562 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\main.cpp
+	<iostream>
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	"FuelTank.h"
+	"Battery.h"
+	"HMI.h"
+	<unistd.h>
+	<thread>
+
+1702445118 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\engine.h
+	"Controller.h"
+	"FuelTank.h"
+
+1702436248 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\controller.h
+	<iostream>
+
+1702440587 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\fueltank.h
+	<iostream>
+	<Controller.h>
+
+1702440973 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\car.h
+	"Controller.h"
+	"Engine.h"
+	"FuelTank.h"
+	"Light.h"
+	"Battery.h"
+	"HMI.h"
+	<iostream>
+
+1702444920 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\light.h
+	"Controller.h"
+	"Battery.h"
+	<thread>
+	<unistd.h>
+
+1702440586 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\battery.h
+	<iostream>
+
+1702436025 \\vndso10-nc10072\images\thi.tran\exercise_oop\include\hmi.h
+	<iostream>
+	"Controller.h"
+
+1702451003 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\car.cpp
+	"Car.h"
+	<iostream>
+
+1702363928 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\controller.cpp
+	"Controller.h"
+	"Engine.h"
+	"Car.h"
+	"Light.h"
+	<iostream>
+
+1702453336 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\engine.cpp
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	<iostream>
+	<string>
+
+1702436035 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\hmi.cpp
+	"HMI.h"
+	<iostream>
+
+1702453217 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\fueltank.cpp
+	"FuelTank.h"
+	<iostream>
+
+1702455105 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\battery.cpp
+	"Battery.h"
+	"Car.h"
+	<iostream>
+	<mutex>
+
+1702454921 source:\\vndso10-nc10072\images\thi.tran\exercise_oop\src\light.cpp
+	"Light.h"
+	<iostream>
+	<thread>
+	<unistd.h>
+
+1702365273 source:d:\images\thi.tran\exercise_oop\main.cpp
+	<iostream>
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	"FuelTank.h"
+	"Battery.h"
+	"HMI.h"
+	<unistd.h>
+	<thread>
+
+1702364951 d:\images\thi.tran\exercise_oop\include\engine.h
+	"Controller.h"
+	"FuelTank.h"
+
+1701942502 d:\images\thi.tran\exercise_oop\include\controller.h
+	<iostream>
+
+1702365517 d:\images\thi.tran\exercise_oop\include\fueltank.h
+	<iostream>
+	<Controller.h>
+
+1702366053 d:\images\thi.tran\exercise_oop\include\car.h
+	"Controller.h"
+	"Engine.h"
+	"FuelTank.h"
+	"Light.h"
+	"Battery.h"
+	"HMI.h"
+	<iostream>
+
+1702356495 d:\images\thi.tran\exercise_oop\include\light.h
+	"Controller.h"
+	"Battery.h"
+	<thread>
+	<unistd.h>
+
+1702362162 d:\images\thi.tran\exercise_oop\include\battery.h
+	<iostream>
+
+1702008560 d:\images\thi.tran\exercise_oop\include\hmi.h
+	<iostream>
+	"Controller.h"
+
+1702362318 source:d:\images\thi.tran\exercise_oop\src\battery.cpp
+	"Battery.h"
+	"Car.h"
+	<iostream>
+
+1702366060 source:d:\images\thi.tran\exercise_oop\src\car.cpp
+	"Car.h"
+	<iostream>
+
+1702363928 source:d:\images\thi.tran\exercise_oop\src\controller.cpp
+	"Controller.h"
+	"Engine.h"
+	"Car.h"
+	"Light.h"
+	<iostream>
+
+1702366053 source:d:\images\thi.tran\exercise_oop\src\engine.cpp
+	"Engine.h"
+	"Controller.h"
+	"Car.h"
+	<iostream>
+	<string>
+	"FuelTank.h"
+
+1702365634 source:d:\images\thi.tran\exercise_oop\src\fueltank.cpp
+	"FuelTank.h"
+	<iostream>
+
+1702008373 source:d:\images\thi.tran\exercise_oop\src\hmi.cpp
+	"HMI.h"
+	<iostream>
+
+1702365221 source:d:\images\thi.tran\exercise_oop\src\light.cpp
+	"Light.h"
+	<iostream>
+	<thread>
+	<unistd.h>
+

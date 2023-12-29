@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1702367175 source:d:\oop\codeblocks\fileprocessing\main.cpp
+	<iostream>
+	"Config.h"
+	<fstream>
+	<string>
+
+1702367544 d:\oop\codeblocks\fileprocessing\include\config.h
+	<iostream>
+	<fstream>
+
+1702367555 source:d:\oop\codeblocks\fileprocessing\src\config.cpp
+	"Config.h"
+	<iostream>
+	<fstream>
+
+1702367481 source:d:\oop\codeblocks\fileprocessing\src\abc.cpp
+	"abc.h"
+
+1702367481 d:\oop\codeblocks\fileprocessing\include\abc.h
+
